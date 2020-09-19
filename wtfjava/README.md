@@ -16,7 +16,7 @@ Compare java and python with topics covered in [wtfpython](https://github.com/sa
   - [Section: Strain your brain!](#section-strain-your-brain)
     - [▶ First things first! *](#-first-things-first-)
     - [▶ Strings can be tricky sometimes](#-strings-can-be-tricky-sometimes)
-  - [#### 💡 Explanation:](#h4-id-explanation-4-explanationh4)
+  - [#### 💡 Explanation:](#h4-id-explanation-14-explanationh4)
     
 <!-- tocstop -->
 
@@ -33,7 +33,8 @@ Compare java and python with topics covered in [wtfpython](https://github.com/sa
 <!-- Example ID: 30f1d3fc-e267-4b30-84ef-4d9e7091ac1a --->
 1\. Input:
 
-```javaString a = "some_thing";
+```java
+String a = "some_thing";
 System.identityHashCode(a);
 System.identityHashCode("some" + "_" + "string");
 ```

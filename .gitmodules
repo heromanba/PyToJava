@@ -1,3 +1,6 @@
 [submodule "wtfjava/wtfpython"]
 	path = wtfjava/wtfpython
 	url = https://github.com/satwikkansal/wtfpython.git
+[submodule "java-snippets/python-snippets"]
+	path = java-snippets/python-snippets
+	url = https://github.com/progrmoiz/python-snippets.git
