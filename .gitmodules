@@ -1,0 +1,3 @@
+[submodule "wtfjava/wtfpython"]
+	path = wtfjava/wtfpython
+	url = https://github.com/satwikkansal/wtfpython.git
