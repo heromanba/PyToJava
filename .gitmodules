@@ -4,3 +4,6 @@
 [submodule "java-snippets/python-snippets"]
 	path = java-snippets/python-snippets
 	url = https://github.com/progrmoiz/python-snippets.git
+[submodule "python-concurrency-examples/java-concurrency-patterns"]
+	path = python-concurrency-examples/java-concurrency-patterns
+	url = https://github.com/LeonardoZ/java-concurrency-patterns.git
